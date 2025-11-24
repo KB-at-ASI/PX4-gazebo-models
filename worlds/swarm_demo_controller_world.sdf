@@ -1,5 +1,5 @@
 <sdf version='1.9'>
-  <world name='baylands_fast'>
+  <world name='swarm_demo_controller_world'>
     <physics type="ode">
       <max_step_size>0.01</max_step_size>
       <real_time_factor>1.0</real_time_factor>

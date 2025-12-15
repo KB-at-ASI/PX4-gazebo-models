@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sdf version='1.9'>
-  <model name='lipan'>
+  <model name='fixed-wing'>
     <pose>0 0 0.246 0 0 0</pose>
     <link name='base_link'>
       <pose>0 0 0 0 0 0</pose>
@@ -71,7 +71,7 @@
         <geometry>
           <mesh>
             <scale>0.1 0.1 0.1</scale>
-            <uri>model://lipan/meshes/lipan_body_with_prop.obj</uri>
+            <uri>model://fixed-wing/meshes/lipan_body_with_prop.obj</uri>
           </mesh>
         </geometry>
         <material>
